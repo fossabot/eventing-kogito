@@ -9,6 +9,7 @@
 [![codecov](https://codecov.io/gh/knative-sandbox/eventing-kogito/branch/main/graph/badge.svg)](https://codecov.io/gh/knative-sandbox/eventing-kogito)
 [![zulip chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg?logo=zulip)](https://kie.zulipchat.com/#narrow/stream/262892-serverless-workflow)
 [![Slack](https://img.shields.io/badge/%23eventing-white.svg?logo=slack&color=522a5e)](https://knative.slack.com/archives/CQBKVH4QY)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-kogito.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-kogito?ref=badge_shield)
 
 
 [Kogito](https://kogito.kie.org/) is a platform to build cloud-native business automation services. It has a built-in
@@ -238,3 +239,7 @@ The source is ready to produce events to the sink defined in the service.
 ## Roadmap
 
 To learn more about future features, check our [Roadmap](ROADMAP.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-kogito.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Feventing-kogito?ref=badge_large)
